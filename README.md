@@ -33,7 +33,7 @@ A full-stack authentication system built using MongoDB, Express, React, and Node
 
 1. Install dependencies  
 
---npm install 
+  --npm install 
 
 
 2. Create `.env` file  
@@ -46,7 +46,7 @@ JWT_REFRESH_SECRET=your_refresh_secret
 
 3. Run server  
 
---npm start
+  --npm start
 
 
 ---
